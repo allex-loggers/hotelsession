@@ -1,0 +1,25 @@
+{
+  "name": "allex_hotelsessionlogger",
+  "version": "1.0.0",
+  "description": "AllexJS logger for hotel sessions",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allex-loggers/hotelsession.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "hotel",
+    "session",
+    "logger"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-loggers/hotelsession/issues"
+  },
+  "homepage": "https://github.com/allex-loggers/hotelsession#readme"
+}
